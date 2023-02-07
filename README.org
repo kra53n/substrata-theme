@@ -1,0 +1,4 @@
+#+title: substrata-theme.el
+#+author: kra53n
+
+[[https://github.com/arzg/vim-substrata][The substrata colorscheme]] ported for Emacs.
