@@ -38,7 +38,7 @@
   "substrata ported theme")
 
 (custom-theme-set-faces
- 'nonamee
+ 'substrata
  '(default ((t (:background "#191c25" :foreground "#b5b4c9" :width normal))))
  '(cursor ((t (:background "#f0ecfe"))))
  '(homoglyph ((t (:foreground "yellow"))))
